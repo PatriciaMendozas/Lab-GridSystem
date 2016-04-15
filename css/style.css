@@ -1,0 +1,46 @@
+/* Inserta tu codigo aqui */
+*{
+	outline: 1px solid rgba(255,0,0,0.4)
+}
+.plomo{
+	background-color: #2E2E2E;
+}
+.plomoclaro{
+	background-color: #D8D8D8;
+}
+.menu {
+	list-style: none;
+	display: inline;
+	font-size: 97%;
+	margin-left: 3%
+}
+.todomenu{
+	margin: 10% 0%;
+}
+a {
+	text-decoration: none;
+	}
+img{
+	width: 100%;
+}
+.logo50{
+	width: 50%;
+}
+.centrado{
+	text-align: center;
+}
+.cuadrado{
+	width: 16%;
+	margin: 4% 0% 4% 3%;
+	display: inline-block;
+	vertical-align: top;
+}
+.icono{
+	width: 10px;
+}
+.space{
+	margin-bottom: 6%;
+}
+h3{
+	margin-top: 15%;
+}
